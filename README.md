@@ -1,2 +1,0 @@
-# Laravel
-just practice laravel
